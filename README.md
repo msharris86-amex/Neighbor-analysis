@@ -1,24 +1,27 @@
 # Neighbor-analysis
 
-**Key Takeaways**
-Search position is the biggest conversion driver - focus SEO efforts on top 5 positions
-Most factors have modest impact - conversion rates are relatively consistent across categories
-Seasonal and temporal patterns exist - update our paid adds on given days/months
-The analysis shows that while there are conversion differences across various factors, search position has the most significant impact on conversion rates, making it the primary focus for optimization efforts.
+
+**Key Recommendations**
+1. Focus on top 5 search positions - Do some SEO for better positions in search results.
+2. Optimize for relevance sorting - Ratings are more important than winning out in price. Do not skimp on the little things to save money. 
+3. Target September for campaigns - there is a lull in the summer followed by a peak in Q3. Target Campaigns during this time.
+
+**Additional data to strengthen analysis**
+revenue/profit from each reservation to determine where to focus
+actual ratings on the listings
+actual price on the listing 
+session length on the views, how long is the user spending on each step
+host data- do they have ratings? mulitle listings? 
+User demographic data for profiling
+user lifetime value - repeat bookers
+when making a reservation when do we have people drop off in the process?
+any competitor data. Do our conversion rates stack up to theirs?
+Meta Data like a data dictionary that explained all the Variables
 
 
-**Strategic Recommendations**
-High-Impact Optimizations:
-Focus on top 5 search positions - biggest conversion driver
-Optimize for relevance sorting - Ratings are more important than winning out in price
-Target September for campaigns - there is a lull in the summer followed by a peak in Q3
-
-Medium-Impact Optimizations:
-Promote amenity-based searches - list clearly all amenities.
-Monday marketing focus - highest converting day
 
 
-Analysis of the conversion rate of different variables
+**Detailed analysis of the conversion rate of different variables**
 
     1. Search Position (Most Important Factor)
     Best positions: 1-5 (4.23% conversion rate)
