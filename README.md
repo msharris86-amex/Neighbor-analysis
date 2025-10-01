@@ -33,7 +33,7 @@ Meta Data like a data dictionary that explained all the Variables
 
 **Detailed analysis of the conversion rate of different variables**
 
-    1. Search Position (Most Important Factor)
+    Search Position (Most Important Factor)
     Best positions: 1-5 (4.23% conversion rate)
     Worst positions: 16-20 (3.52% conversion rate)
     Key insight: Top positions convert significantly better than lower positions
