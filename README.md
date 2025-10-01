@@ -7,16 +7,16 @@
 3. Target September for campaigns - there is a lull in the summer followed by a peak in Q3. Target Campaigns during this time.
 
 **Additional data to strengthen analysis**
-revenue/profit from each reservation to determine where to focus
-actual ratings on the listings
-actual price on the listing 
-session length on the views, how long is the user spending on each step
-host data- do they have ratings? mulitle listings? 
-User demographic data for profiling
-user lifetime value - repeat bookers
-when making a reservation when do we have people drop off in the process?
-any competitor data. Do our conversion rates stack up to theirs?
-Meta Data like a data dictionary that explained all the Variables
+-revenue/profit from each reservation to determine where to focus
+-actual ratings on the listings
+-actual price on the listing 
+-session length on the views, how long is the user spending on each step
+-host data- do they have ratings? mulitle listings? 
+-User demographic data for profiling
+-user lifetime value - repeat bookers
+-when making a reservation when do we have people drop off in the process?
+-any competitor data. Do our conversion rates stack up to theirs?
+-Meta Data like a data dictionary that explained all the Variables
 
 
 
