@@ -16,7 +16,7 @@ actual price on the listing
 
 session length on the views, how long is the user spending on each step
 
-host data- do they have ratings? mulitle listings? 
+host data- do they have ratings? multiple listings? 
 
 User demographic data for profiling
 
